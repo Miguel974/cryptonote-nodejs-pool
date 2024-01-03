@@ -1,13 +1,13 @@
 {
-    "poolHost": "your.pool.host",
+    "poolHost": "192.168.1.37",
 	
     "coin": "Pine Tree Shilling 1652",
     "symbol": "P1652",
     "coinUnits": 1000000,
     "coinDecimalPlaces": 6,
     "coinDifficultyTarget": 30,
-    "blockchainExplorer": "https://explorer.74.208.182.138/block.html?hash={id}",
-    "transactionExplorer": "https://explorer.74.208.182.138/transaction.html?hash={id}",
+    "blockchainExplorer": "https://explorer.neoxa.net/block.html?hash={id}",
+    "transactionExplorer": "https://explorer.neoxa.net/transaction.html?hash={id}",
 
     "daemonType": "bytecoin",
     "cnAlgorithm": "cryptonight_light",
@@ -151,8 +151,8 @@
     },
 
     "daemon": {
-        "host": "127.0.0.1",
-        "port": 4242
+        "host": "192.168.1.37",
+        "port": 9050
     },
 
     "wallet": {
