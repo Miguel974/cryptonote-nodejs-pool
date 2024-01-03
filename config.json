@@ -1,8 +1,8 @@
 {
     "poolHost": "192.168.1.37",
 	
-    "coin": "Pine Tree Shilling 1652",
-    "symbol": "P1652",
+    "coin": "neoixa",
+    "symbol": "NEOX",
     "coinUnits": 1000000,
     "coinDecimalPlaces": 6,
     "coinDifficultyTarget": 30,
