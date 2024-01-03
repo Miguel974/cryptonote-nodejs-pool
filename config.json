@@ -9,8 +9,8 @@
     "blockchainExplorer": "https://explorer.neoxa.net/block.html?hash={id}",
     "transactionExplorer": "https://explorer.neoxa.net/transaction.html?hash={id}",
 
-    "daemonType": "bytecoin",
-    "cnAlgorithm": "cryptonight_light",
+    "daemonType": "default",
+    "cnAlgorithm": "kawpow",
     "cnVariant": 1,
     "cnBlobType": 2,
 
@@ -31,7 +31,7 @@
         "enabled": true,
 	"mergedMining": false,
         "clusterForks": "auto",
-        "poolAddress": "** Your pool wallet address **",
+        "poolAddress": "GQKn52tXuMzmfSEnGY38tj2j8e6erPaMMz",
         "intAddressPrefix": null,
         "blockRefreshInterval": 600,
         "minerTimeout": 600,
